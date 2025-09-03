@@ -1,0 +1,15 @@
+C:\Users\Aprendiz\source\repos\ParqueaderoSena\logica\bin\Debug\net8.0\logica.deps.json
+C:\Users\Aprendiz\source\repos\ParqueaderoSena\logica\bin\Debug\net8.0\logica.dll
+C:\Users\Aprendiz\source\repos\ParqueaderoSena\logica\bin\Debug\net8.0\logica.pdb
+C:\Users\Aprendiz\source\repos\ParqueaderoSena\logica\bin\Debug\net8.0\Datos.dll
+C:\Users\Aprendiz\source\repos\ParqueaderoSena\logica\bin\Debug\net8.0\Datos.pdb
+C:\Users\Aprendiz\source\repos\ParqueaderoSena\logica\obj\Debug\net8.0\logica.csproj.AssemblyReference.cache
+C:\Users\Aprendiz\source\repos\ParqueaderoSena\logica\obj\Debug\net8.0\logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aprendiz\source\repos\ParqueaderoSena\logica\obj\Debug\net8.0\logica.AssemblyInfoInputs.cache
+C:\Users\Aprendiz\source\repos\ParqueaderoSena\logica\obj\Debug\net8.0\logica.AssemblyInfo.cs
+C:\Users\Aprendiz\source\repos\ParqueaderoSena\logica\obj\Debug\net8.0\logica.csproj.CoreCompileInputs.cache
+C:\Users\Aprendiz\source\repos\ParqueaderoSena\logica\obj\Debug\net8.0\logica.csproj.Up2Date
+C:\Users\Aprendiz\source\repos\ParqueaderoSena\logica\obj\Debug\net8.0\logica.dll
+C:\Users\Aprendiz\source\repos\ParqueaderoSena\logica\obj\Debug\net8.0\refint\logica.dll
+C:\Users\Aprendiz\source\repos\ParqueaderoSena\logica\obj\Debug\net8.0\logica.pdb
+C:\Users\Aprendiz\source\repos\ParqueaderoSena\logica\obj\Debug\net8.0\ref\logica.dll

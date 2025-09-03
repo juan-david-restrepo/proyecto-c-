@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36127.28 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Principal", "Principal\Principal.csproj", "{EEC21369-8A2E-4ACB-BB9D-7CC69B29BFB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "logica", "logica\logica.csproj", "{53B63883-A54A-4721-80D1-7E85527265C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Datos", "Datos\Datos.csproj", "{0D3AF3CE-E131-4D71-9F4C-C8B5442EECE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEC21369-8A2E-4ACB-BB9D-7CC69B29BFB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEC21369-8A2E-4ACB-BB9D-7CC69B29BFB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEC21369-8A2E-4ACB-BB9D-7CC69B29BFB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEC21369-8A2E-4ACB-BB9D-7CC69B29BFB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53B63883-A54A-4721-80D1-7E85527265C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53B63883-A54A-4721-80D1-7E85527265C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53B63883-A54A-4721-80D1-7E85527265C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53B63883-A54A-4721-80D1-7E85527265C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D3AF3CE-E131-4D71-9F4C-C8B5442EECE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D3AF3CE-E131-4D71-9F4C-C8B5442EECE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D3AF3CE-E131-4D71-9F4C-C8B5442EECE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D3AF3CE-E131-4D71-9F4C-C8B5442EECE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C927806B-FEC1-40AD-8686-4F92BB5B6BD5}
+	EndGlobalSection
+EndGlobal
